@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDeClases", "Proyect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoInicioWPF", "..\ProyectoInicioWPF\ProyectoInicioWPF.csproj", "{93E3F592-2ADF-40F2-B0D6-9CCF0A9D7B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseNro3_Wpf", "ClaseNro3_Wpf\ClaseNro3_Wpf.csproj", "{2C9023B2-E963-41D5-BE63-82F8D3B07B91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{93E3F592-2ADF-40F2-B0D6-9CCF0A9D7B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E3F592-2ADF-40F2-B0D6-9CCF0A9D7B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E3F592-2ADF-40F2-B0D6-9CCF0A9D7B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9023B2-E963-41D5-BE63-82F8D3B07B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9023B2-E963-41D5-BE63-82F8D3B07B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9023B2-E963-41D5-BE63-82F8D3B07B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9023B2-E963-41D5-BE63-82F8D3B07B91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
